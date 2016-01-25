@@ -1,3 +1,5 @@
+[![Android Gems](http://www.android-gems.com/badge/canyinghao/CanBus.svg?branch=master)](http://www.android-gems.com/lib/canyinghao/CanBus)
+
 # CanBus
 通过反射发送通知事件，传递数据
 
