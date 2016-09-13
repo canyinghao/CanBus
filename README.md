@@ -5,7 +5,7 @@
 
 ##添加依赖
 ```JAVA
-compile 'com.canyinghao:canbus:1.0.0'
+compile 'com.canyinghao:canbus:1.0.1'
 ```
 
 ## 使用方式 
