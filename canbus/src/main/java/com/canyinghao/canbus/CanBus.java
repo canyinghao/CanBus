@@ -144,7 +144,7 @@ public class CanBus {
                 try {
                     invokeMethod(object, methodName, new Object[]{event});
                 } catch (Exception e) {
-                    // TODO Auto-generated catch block
+                    e.printStackTrace();
 
                 }
             }
